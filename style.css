@@ -1,0 +1,32 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+body {
+    background-size: cover;
+}
+canvas {
+    box-shadow: 10px 10px 10px black;
+    border-radius: 10px;
+}
+#status {
+    font-size: 18px;
+}
+#btn-back {
+    float: right;
+    margin: 5px;
+    color: white;
+    font-size: 20px !important;
+    background-color: black;
+    cursor: pointer;
+}
+#btn-back:hover {
+    color: red !important;
+}
+#btn-nit {
+    width: 700px;
+    border-radius: 30px !important;
+    font-size: 30px !important;
+    background-color: black;
+}
